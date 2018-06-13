@@ -1,2 +1,5 @@
 This is a test file
-'Master' just edited this file
+<<<<<<< HEAD
+These are the edits made on the 'first' branch
+Now the 'second' changes are made
+>>>>>>> second
